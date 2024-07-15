@@ -1,3 +1,3 @@
 require("steve.core")
 require("steve.lazy")
-vim.cmd("colorscheme catppuccin-mocha")
+vim.cmd("colorscheme catppuccin-macchiato")
