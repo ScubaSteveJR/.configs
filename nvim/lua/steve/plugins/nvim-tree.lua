@@ -41,7 +41,7 @@ return {
 				custom = { ".DS_Store" },
 			},
 			git = {
-				enable = false,
+				enable = true,
 			},
 		})
 
