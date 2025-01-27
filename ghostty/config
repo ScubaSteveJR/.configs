@@ -1,0 +1,8 @@
+font-size = 13
+theme = catppuccin-macchiato
+shell-integration-features = no-cursor,sudo,no-title
+cursor-style = block
+adjust-cell-height = 20%
+
+mouse-hide-while-typing = true
+window-colorspace = "display-p3"

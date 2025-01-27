@@ -1,0 +1,96 @@
+{
+	"settings": {
+		"backupFolder": "/home/steve/Dygma/Backups",
+		"backupFrequency": 13,
+		"language": "english",
+		"darkMode": "system",
+		"showDefaults": false,
+		"isStandardView": true,
+		"allowBeta": true,
+		"autoUpdate": true,
+		"isStandardViewSuperkeys": true
+	},
+	"neurons": [
+		{
+			"id": "7d801df3617e549e",
+			"name": "Defy",
+			"layers": [
+				{
+					"id": 0,
+					"name": "Main"
+				},
+				{
+					"id": 1,
+					"name": "NumPad"
+				},
+				{
+					"id": 2,
+					"name": "Fs"
+				},
+				{
+					"id": 3,
+					"name": "Symbols"
+				},
+				{
+					"id": 4,
+					"name": "Gaming"
+				},
+				{
+					"id": 5,
+					"name": "L6"
+				},
+				{
+					"id": 6,
+					"name": "L7"
+				},
+				{
+					"id": 7,
+					"name": "L8"
+				},
+				{
+					"id": 8,
+					"name": "L9"
+				},
+				{
+					"id": 9,
+					"name": "L10"
+				}
+			],
+			"macros": [
+				{
+					"actions": [
+						{
+							"type": 6,
+							"keyCode": 224
+						},
+						{
+							"type": 8,
+							"keyCode": 5
+						}
+					],
+					"name": "Tmux",
+					"macro": "CTRL B",
+					"id": 0
+				},
+				{
+					"actions": [
+						{
+							"keyCode": 231,
+							"type": 6,
+							"id": 0
+						},
+						{
+							"keyCode": 40,
+							"type": 8,
+							"id": 1
+						}
+					],
+					"name": "Terminal",
+					"macro": "RIGHT LINUX ENTER",
+					"id": 1
+				}
+			],
+			"superkeys": []
+		}
+	]
+}
